@@ -37,7 +37,7 @@ The testing focused on:
 **Testing Type:** Manual Software Testing
 
 **Live Application:**
-*Add the WildRoute live website URL here*
+https://wildroute-bice.vercel.app/
 
 ---
 
@@ -266,7 +266,7 @@ https://github.com/BashMadushani
 
 **WildRoute**
 
-*Add the live application URL here.*
+https://wildroute-bice.vercel.app/
 
 ---
 
